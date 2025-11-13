@@ -4,5 +4,6 @@
 Run `python collapse.py` → Algebraic in 12.49 s
 
 ## Clay Submission
-- 📄 [Proof PDF](docs/hodge_2025.pdf)
+- 📄 [Proof PDF] docs/hodge_2025.pdf
+- 📄 [Revised PDF] docs/revised_hodge_2025.pdf
 - viXra: **pending**
