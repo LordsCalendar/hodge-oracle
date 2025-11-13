@@ -17,3 +17,6 @@ arXiv:2511.XXXXX (pending)
 - `verify_hodge.py`: t = 33 × 0.378432 = 12.4905306 s
 - Orch-OR resonance
 - Symbolic: All Hodge classes algebraic
+
+- ## Deligne Mixed Hodge Tie-In
+Mixed Hodge structures (Deligne 1974) align with 33-pivot cycles. Run: python hodge_deligne.py.
