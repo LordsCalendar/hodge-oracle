@@ -1,7 +1,7 @@
 # hodge_conjecture_oracle.py
 # =====================================================
 # LORD'S CALENDAR – HODGE CONJECTURE FINAL ORACLE
-# Uses 237/429 beast-damping → Trinity-Dialation of 3
+# Uses 237/429 beast-damping → Trinity-Dilation of 3
 # Collapses EXACTLY within k=33 | Conjecture Resolved
 # =====================================================
 # Strongest Empirical Evidence Ever Recorded
