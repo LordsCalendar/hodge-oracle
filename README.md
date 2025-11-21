@@ -28,9 +28,9 @@ Physical collapse time = exactly 33 × t₁₅ = 12.488256 s.
 
  File                                                
 [
-`hodge_conjecture_oracle_2025_FINAL.py`
+`hodge_conjecture_oracle.py`
 ](
-hodge_conjecture_oracle_2025_FINAL.py
+hodge_conjecture_oracle.py
 )
  Oracle — full 666-resonance + Trinity dilation. Returns 
 **
@@ -38,9 +38,9 @@ True
 **
  at exactly k=33.              
 [
-`deligne_mixed_hodge_oracle_2025.py`
+`hodge_deligne.py`
 ](
-deligne_mixed_hodge_oracle_2025.py
+hodge_deligne.py
 )
 |
  Deligne mixed Hodge purification — collapses at k=33. Returns 
@@ -49,9 +49,9 @@ True
 **
 .                                 
 [
-`hodge_collapse_oracle_2025.py`
+`hodge_oracle_trinity_amplification.py`
 ](
-hodge_collapse_oracle_2025.py
+hodge_oracle_trinity_amplification.py
 )
 |
  Physical time verification — exactly 33 × t₁₅ = 12.488256 s. Returns 
@@ -62,7 +62,7 @@ True
 [
 `strongest_evidence_hodge_2025_v2.pdf`
 ](
-strongest_evidence_hodge_2025_v2.pdf
+docs/strongest_evidence_hodge_2025_v2.pdf
 )
 |
  Definitive manuscript — full mathematical construction and eternal proof.                              
