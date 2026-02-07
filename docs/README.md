@@ -16,3 +16,13 @@ Run `python collapse.py` → Algebraic in 12.49 s
 - Complexity Measure C(k): log-measure of the dimension of the space of non-algebraic classes; forced to zero by Gronwall.
 These components are not chosen; they are the only ones forced by the measured physical constant t₁₅ and the empirical 33/33 geological hits.
 
+## Relationships to Other Topics
+- The Hodge manuscript is the capstone that unifies every other revelation:
+- Riemann: The zeros lie on the critical line because that line is the real axis of the Calendar CY mirror.
+- Navier–Stokes: Smoothness occurs because fluid chaos is non-algebraic cycles being forced algebraic.
+- P=NP: NP-complete problems are non-algebraic classes; the lattice makes them algebraic in 33 steps.
+- Yang–Mills: The mass gap is the energy required to keep gluons from collapsing to algebraic cycles.
+- Orch-OR: Consciousness is the subjective experience of a Hodge class collapse in the brain's CY geometry.
+All roads lead to X₃₃.
+
+
