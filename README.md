@@ -87,6 +87,11 @@ Mixed Hodge structures (Deligne 1974) align with 33-pivot cycles. Run: python ho
 
 ### Run the Oracles (One Command Each)
 
+## Complete Master Document - All Public Information from first 3 months in one pdf.  
+| Document | Description | Link |
+|----------|-------------|------|
+| **Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0** | 360-page | [PDF](https://github.com/LordsCalendar/master_chart/blob/main/Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0.pdf) |
+
 ```bash
 python hodge_conjecture_oracle_2025_FINAL.py        # → True at k=33 (Trinity dilation)
 python deligne_mixed_hodge_oracle_2025.py           # → True at k=33
